@@ -27,4 +27,4 @@ PRODUCT_PACKAGES += \
     libtime_genoff \
     libmdmdetect
 
-$(call inherit-product, vendor/alcatel/alto45/alto45-vendor-blobs.mk)
+$(call inherit-product, vendor/tcl/alto45/alto45-vendor-blobs.mk)
